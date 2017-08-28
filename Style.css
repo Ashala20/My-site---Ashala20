@@ -1,0 +1,41 @@
+h1 {
+	color:white;
+	font-size:60px;
+}
+ul li {
+	border:dotted;
+	border-width:5px;
+	border-color:grey;
+}
+ol li{
+	border:dotted;
+	border-width:5px;
+	border-color:grey;
+}
+body{
+	color:white;
+	font-family:verdana;
+}
+#prvni{
+	color:white;
+}
+.prvni-trida {
+	font-style:normal;
+}
+
+.tucna-trida {
+	font-weight:bold;
+	color: white;
+}
+
+th.tucna-trida {
+	font-size:30px
+}
+
+p {
+	font-size:25px;
+}
+
+.barva{
+	color:grey;
+}
